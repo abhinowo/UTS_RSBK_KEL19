@@ -3,7 +3,7 @@
 http://34.239.111.84/
 
 
-Notes : KLIK HYPERLINK TUGAS PENGGANTI UTS PADA PAGE PALING BAWAH UNTUK MELIHAT FORM 
+Notes : Klik Hyperlink "Tugas Pengganti UTS" pada page paling bawah untuk melihat bagian form
 
 
 
